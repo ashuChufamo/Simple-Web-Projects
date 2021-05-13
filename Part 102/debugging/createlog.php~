@@ -1,0 +1,4 @@
+<?php 
+require_once('./KLogger.php');
+$log = new Klogger("/tmp/klogger.txt",KLogger::INFO);
+?>

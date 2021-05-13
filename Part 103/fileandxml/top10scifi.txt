@@ -1,0 +1,9 @@
+Blade Runner , Ridley Scott, 1982, R
+2001: A Space Odyssey  , Stanley Kubrick , 1968,G
+Alien , Ridley Scott,1979,R
+Solaris , Andrei Tarkovsky,1972,PG
+Terminator , James Cameron,1984,R
+The Day the Earth Stood Still ,Robert Wise,1951,NR
+War of the Worlds , Byron Haskin,1953,NR
+The Matrix ,  Wachowski Bros,1999,R
+Close Encounters of the Third Kind , Steven Spielberg,1977,PG

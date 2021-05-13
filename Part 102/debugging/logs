@@ -1,0 +1,16 @@
+2014-11-05 9:49:00 - INFO  --> Script execution beginning/var/www/aau/demo/lecture-02/debugging/demo1.php::12 
+2014-11-05 9:49:00 - INFO  --> Entering /var/www/aau/demo/lecture-02/debugging/function.php:CircumferenceByValue:13 
+2014-11-05 9:49:00 - INFO  --> Entering /var/www/aau/demo/lecture-02/debugging/function.php:CircumFerenceByReference:31 
+2014-11-05 9:49:19 - INFO  --> Script execution beginning/var/www/aau/demo/lecture-02/debugging/demo1.php::12 
+2014-11-05 9:49:19 - INFO  --> Entering /var/www/aau/demo/lecture-02/debugging/function.php:CircumferenceByValue:13 
+2014-11-05 9:49:19 - INFO  --> Entering /var/www/aau/demo/lecture-02/debugging/function.php:CircumFerenceByReference:31 
+2014-11-07 10:33:15 - INFO  --> Script execution beginning/var/www/aau/demo/lecture-02/debugging/demo2.php::11 
+2014-11-07 10:33:15 - INFO  --> Entering /var/www/aau/demo/lecture-02/debugging/function.php:CircumferenceByValue:13 
+2014-11-07 10:33:15 - INFO  --> Entering /var/www/aau/demo/lecture-02/debugging/function.php:CircumFerenceByReference:31 
+2014-11-07 10:33:15 - INFO  --> Entering /var/www/aau/demo/lecture-02/debugging/function.php:CircumferenceByValue:13 
+2014-11-07 10:33:15 - INFO  --> Script execution ending/var/www/aau/demo/lecture-02/debugging/demo2.php::40 
+2014-11-07 10:36:18 - INFO  --> Script execution beginning/var/www/aau/demo/lecture-02/debugging/demo2.php::11 
+2014-11-07 10:36:18 - INFO  --> Entering /var/www/aau/demo/lecture-02/debugging/function.php:CircumferenceByValue:13 
+2014-11-07 10:36:18 - INFO  --> Entering /var/www/aau/demo/lecture-02/debugging/function.php:CircumFerenceByReference:31 
+2014-11-07 10:36:18 - INFO  --> Entering /var/www/aau/demo/lecture-02/debugging/function.php:CircumferenceByValue:13 
+2014-11-07 10:36:18 - INFO  --> Script execution ending/var/www/aau/demo/lecture-02/debugging/demo2.php::40 

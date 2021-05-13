@@ -1,0 +1,15 @@
+<?php 
+    function Circumference($pi,$radius) 
+    {
+        $cirumference = 2*$pi*$radius;
+        return $cirumference;
+    }
+    
+    function CircumFerenceBy(&$pi,&$radius,
+&$cirumference) 
+    {
+    
+      $circumference = 2 * $pi * $radius; 
+   
+    }
+?>

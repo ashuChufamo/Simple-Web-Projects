@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<movies version="1.5">
+    <film>
+        <title>Blade Runner </title>
+        <director> Ridley Scott</director>
+        <year> 1982</year>
+        <rating> R</rating>
+    </film>
+    <film>
+        <title>2001: A Space Odyssey  </title>
+        <director> Stanley Kubrick </director>
+        <year> 1968</year>
+        <rating>G</rating>
+    </film>
+    <film>
+        <title>Alien </title>
+        <director> Ridley Scott</director>
+        <year>1979</year>
+        <rating>R</rating>
+    </film>
+    <film>
+        <title>Solaris </title>
+        <director> Andrei Tarkovsky</director>
+        <year>1972</year>
+        <rating>PG</rating>
+    </film>
+    <film>
+        <title>Terminator </title>
+        <director> James Cameron</director>
+        <year>1984</year>
+        <rating>R</rating>
+    </film>
+    <film>
+        <title>The Day the Earth Stood Still </title>
+        <director>Robert Wise</director>
+        <year>1951</year>
+        <rating>NR</rating>
+    </film>
+    <film>
+        <title>War of the Worlds </title>
+        <director> Byron Haskin</director>
+        <year>1953</year>
+        <rating>NR</rating>
+    </film>
+    <film>
+        <title>The Matrix </title>
+        <director>  Wachowski Bros</director>
+        <year>1999</year>
+        <rating>R</rating>
+    </film>
+    <film>
+        <title>Close Encounters of the Third Kind </title>
+        <director> Steven Spielberg</director>
+        <year>1977</year>
+        <rating>PG</rating>
+    </film>
+    <film>
+        <title/>
+        <director/>
+        <year/>
+        <rating/>
+    </film>
+</movies>

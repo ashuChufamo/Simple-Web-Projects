@@ -1,0 +1,28 @@
+[mysql_database]
+db_username = phpuser
+db_password = password
+db_host = localhost
+database = ''
+
+[sqlserver_database]
+db_username = CourseUser
+db_password = Passw0rd
+db_host = VM2008R2SVR2\VM_DEV_01
+database = exceed_cms
+
+[debug]
+debug_on = 1
+debug_level = 2
+
+[log]
+log_on = 1
+logfilelocation = c:\log
+
+[directory]
+root = c:\wamp\vhosts
+
+[email_server]
+server = {imap.gmail.com:993/imap/ssl}INBOX
+username = webprogrammingphp@gmail.com
+password = webprogramming123
+port = 993
