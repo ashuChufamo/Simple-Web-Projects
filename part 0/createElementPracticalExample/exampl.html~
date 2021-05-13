@@ -1,0 +1,39 @@
+<script type="text/javascript">
+
+
+</script>
+
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+    </head>
+    <body>
+        <table cellspacing="0" cellpadding="0" id="exam_setup" style="margin-bottom:5px">
+	 <tr>
+			<th style="width:5%">No</th>
+			<th style="width:25%">Exam Type</th>
+			<th style="width:20%">In Percent</th>
+			<th style="width:20%">Order</th>
+			<th style="width:10%">Mandatory</th>
+			
+	  </tr>
+          <tr>
+	     <td style="vertical-align:middle">1</td>
+	     <td> <input type="text" name='exam_name'></td>
+	     <td> <input type="text" name='percent'></td>
+	     <td> <input type="text" name='order'></td>
+	     <td> <input type="checkbox" name='mandatory'></td>	
+	   </tr>
+		
+	</table>
+<p>
+	<input type="button" value="Add Row" onclick="addRow('exam_setup', 4, 'exam_name,percent,order,mandatory')" />
+
+	<input type="button" value="Add Row" onclick="deleteRow('exam_setup', 4, 'exam_name,percent,order,mandatory')" />
+</p>
+        <script src="script.js"></script>        
+    </body>
+</html>

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title></title>
+        <style>
+	     #box {
+		background-color:blue;
+		height: 100px;
+		left:50px;
+		position:absolute;
+		top:50px;
+		width:100px;
+
+	    }
+            .normal {
+                background-color: White;
+                color: Black;
+            }
+            
+            .changed {
+                background-color: Black;
+                color: white;
+            }
+        </style>
+    	 <script src="script.js"></script>
+    </head>
+    <body class="normal">
+        <div id="box">
+
+	</div>
+
+	<h1>Hello, Events</h1>
+        <p>La de da</p>
+        
+        <button>Normal</button>
+        <button>Changed</button>
+        
+       
+    </body>
+</html>
